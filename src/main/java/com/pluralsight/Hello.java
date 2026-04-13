@@ -12,10 +12,12 @@ public class Hello {
     }
 
     private static void sayGoodbye(){
+
         System.out.println("Goodbye!");
     }
 
     private static void sayGoodMorning(){
+
         System.out.println("Good morning!");
     }
 }
